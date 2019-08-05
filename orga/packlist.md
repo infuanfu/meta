@@ -124,6 +124,7 @@
 - [ ] Thermapen
 - [ ] Infrarot Thermometer
 - [ ] BBQ Thermometer
+- [ ] Gitterrost
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
