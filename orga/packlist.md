@@ -16,8 +16,10 @@
 - [ ] Pflaster
 - [ ] Verbandskasten
 - [ ] Rasierzeug
+- [ ] Rasierspiegel
 - [ ] Duschgel
 - [ ] Ladestation für Zahnbürsten
+- [ ] Ibuprofen
 
 
 ## Camping
@@ -168,6 +170,13 @@
 - [ ] blaues Maskierband
 - [ ] Cutter, Ersatzklingen
 - [ ] Werkzeuge zum Crimpen und Kabelkonfektion
+- [ ] Isopropanol
+- [ ] Bremsenreiniger
+- [ ] WD-40
+- [ ] Putzlappen
+- [ ] Juwelier-Monokel
+- [ ] Papier und Stifte
+- [ ] Infuanfu-Stempel (für die Hackerreisepässe)
 
 
 ## Solar-Ausstattung
