@@ -15,6 +15,10 @@
 - [ ] Nitrilhandschuhe
 - [ ] Pflaster
 - [ ] Verbandskasten
+- [ ] Rasierzeug
+- [ ] Duschgel
+- [ ] Ladestation für Zahnbürsten
+
 
 ## Camping
 - [ ] Zelte (bronsen, hadez+trang)
@@ -36,6 +40,7 @@
 - [ ] Luftpumpen [3x]
 - [ ] Tisch
 - [ ] Mülleimer / Halter für Mülltüten
+- [ ] Mylar-Folien
 
 ## Klamotten
 - [ ] Unterwäsche
@@ -46,12 +51,14 @@
 - [ ] Hosen (kurz)
 - [ ] Mütze
 - [ ] Badeschlappen
+- [ ] Socken
+
 
 ## Elektrisch
 - [ ] Verlängerungskabel (Trommel)
 - [ ] CEE32->CEE16 Adapter
 - [ ] CEE16->Schuko Adapter
-- [ ] Verlängerungskabel einzeln
+- [ ] Verlängerungskabel; einzeln, blau
 - [ ] Power bars
 - [ ] LED-Strahler (vom Balkon)
 
@@ -65,15 +72,19 @@
 - [ ] Telefon
 - [ ] USB Netzteil
 - [ ] USB Kabel
+- [ ] Noise Cancelling Kopfhörer
 
 ## Kücheneinrichtung
 - [ ] Gaskocher (12kW)
 - [ ] Gaskocher (2kw)
+- [ ] Gasflasche 12kg
 - [ ] Edelstahlplatte
 - [ ] Gußeiserne Pfanne
-- [ ] Crepepfanne
+- [ ] Crêpepfanne
 - [ ] Kochtopf (23L)
+- [ ] Deckel für Kochtopf
 - [ ] Kochtopf (10L)
+- [ ] Deckel für Kochtopf
 - [ ] Wok
 - [ ] Sous-vide-Gerät
 - [ ] iSi container
@@ -89,6 +100,9 @@
 - [ ] Putzschwämme
 - [ ] Geschirrtücher
 - [ ] Schneidbretter
+- [ ] Plastikschüsseln
+- [ ] Eimer
+- [ ] dichte Behälter (für Trockenes/Pulvriges)
 
 
 ## Gewürze und haltbare Nahrung
@@ -97,6 +111,7 @@
 - [ ] Tee (diverse)
 - [ ] Zucker
 - [ ] Süßstoff in Tablettenform
+- [ ] Honig für Tee
 
 ## Verderbliche Nahrung
 
@@ -131,6 +146,11 @@
 - [ ] Paracord & Feuerzeuge
 - [ ] Beleuchtung für Arbeitstische
 - [ ] Opferholz ("Arbeitsplatte")
+- [ ] Gerband 2x
+- [ ] blaues Maskierband
+- [ ] Cutter, Ersatzklingen
+- [ ] Werkzeuge zum Crimpen und Kabelkonfektion
+
 
 ## Solar-Ausstattung
 - [ ] Pufferbatterie (120Ah/12V)
