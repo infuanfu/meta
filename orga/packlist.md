@@ -20,6 +20,7 @@
 - [ ] Duschgel
 - [ ] Ladestation für Zahnbürsten
 - [ ] Ibuprofen
+- [ ] Handfeger
 
 
 ## Camping
@@ -43,6 +44,7 @@
 - [ ] Tisch
 - [ ] Mülleimer / Halter für Mülltüten
 - [ ] Mylar-Folien
+- [ ] Flickzeug
 
 ## Klamotten
 - [ ] Unterwäsche
@@ -128,12 +130,18 @@
 - [ ] Salz
 - [ ] Schwarzer Knoblauch
 - [ ] Salz (schwarzer Knoblauch)
+- [ ] Sake, divers
+- [ ] Rum
+- [ ] Whisk[e]y
+- [ ] Laborgläser
 
 ## Verderbliche Nahrung
 - [ ] Bacon
 - [ ] Hackfleisch
 - [ ] Oktopus
 - [ ] Tomaten
+- [ ] Lava
+- [ ] Marmeladen & Konfitüren
 
 ## Werkzeuge und Zubehör
 - [ ] Ventilatoren (230V)
@@ -177,6 +185,8 @@
 - [ ] Juwelier-Monokel
 - [ ] Papier und Stifte
 - [ ] Infuanfu-Stempel (für die Hackerreisepässe)
+- [ ] Heißkleber
+- [ ] Pump-Druckbehälter (zum ausblasen der CNC)
 
 
 ## Solar-Ausstattung
