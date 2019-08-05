@@ -69,10 +69,15 @@
 - [ ] Frozen cool packs
 
 ## Spices and shelf-stable food
+- [ ] Tea (Pepermint)
+- [ ] Tea (Lapsang)
+- [ ] Tea (assorted)
+- [ ] Sugar
 
 ## Perishable food
 
 ## Toys & Equipment
+- [ ] Samowar
 - [ ] CNC
 - [ ] Tooling for CNC
 - [ ] Oscilloscope + Probes
