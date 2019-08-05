@@ -121,6 +121,9 @@
 - [ ] Tamagoyaki Pfanne
 - [ ] Pfanne (Edelstahl)
 - [ ] Teelöffel [viele]
+- [ ] Thermapen
+- [ ] Infrarot Thermometer
+- [ ] BBQ Thermometer
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
