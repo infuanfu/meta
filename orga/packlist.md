@@ -125,6 +125,7 @@
 - [ ] Infrarot Thermometer
 - [ ] BBQ Thermometer
 - [ ] Gitterrost
+- [ ] Drahtlöffel
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
@@ -177,6 +178,7 @@
 - [ ] Ketchup (Werder)
 - [ ] Rapsöl
 - [ ] Olivenöl
+- [ ] Austernsoße
 
 ## Verderbliche Nahrung
 - [ ] Bacon
