@@ -39,7 +39,6 @@
 - [ ] CEE16->Schuko adapter
 - [ ] Extension cords
 - [ ] Power bars
-- [ ] Fans (230V)
 
 ## Electronics
 - [ ] Laptop
@@ -77,6 +76,7 @@
 ## Perishable food
 
 ## Toys & Equipment
+- [ ] Fans (230V)
 - [ ] Samowar
 - [ ] CNC
 - [ ] Tooling for CNC
