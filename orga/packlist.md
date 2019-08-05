@@ -118,8 +118,9 @@
 - [ ] Messbecher
 - [ ] Schneebesen
 - [ ] Rührlöffel
-
-
+- [ ] Tamagoyaki Pfanne
+- [ ] Pfanne (Edelstahl)
+- [ ] Teelöffel [viele]
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
@@ -135,6 +136,7 @@
 - [ ] Maismehl
 - [ ] Weizenmehl
 - [ ] Trockenhefe
+- [ ] Stärke
 - [ ] Hartweizengrieß
 - [ ] Sauergurken
 - [ ] Sekt
@@ -144,6 +146,33 @@
 - [ ] Salz (schwarzer Knoblauch)
 - [ ] Piment
 - [ ] Lorbeer
+- [ ] Pfeffer
+- [ ] Anis
+- [ ] Rauchpaprika scharf
+- [ ] Rauchpaprika suess
+- [ ] MSG
+- [ ] Fenchel
+- [ ] Sesam
+- [ ] Chili
+- [ ] Kardamom (schwarz)
+- [ ] Bohnenpaste
+- [ ] Dobanjian
+- [ ] Soja
+- [ ] Sake
+- [ ] Bonito
+- [ ] Mirin
+- [ ] Essig
+- [ ] Sesamöl
+- [ ] Fischsoße
+- [ ] Liquid Smoke
+- [ ] Zimt
+- [ ] Sichimi
+- [ ] H-Vollmilch
+- [ ] Honig
+- [ ] Mayo (JP)
+- [ ] Ketchup (Werder)
+- [ ] Rapsöl
+- [ ] Olivenöl
 
 ## Verderbliche Nahrung
 - [ ] Bacon
