@@ -4,17 +4,28 @@
 - [ ] Zahnpasta
 - [ ] Zahnbürste
 - [ ] Handtücher (mehrere)
+- [ ] Badetücher
 - [ ] Toilettenpapier
 - [ ] Instant cool packs
 - [ ] Kondome
 - [ ] After-sun Lotion
+- [ ] Sonnenbrille
+- [ ] Ohrenstöpsel
+- [ ] Schutzbrillen
+- [ ] Nitrilhandschuhe
+- [ ] Pflaster
+- [ ] Verbandskasten
 
 ## Camping
 - [ ] Zelte (bronsen, hadez+trang)
+- [ ] Häringe
 - [ ] Planen (min 3x)
 - [ ] Luftmatraze
 - [ ] passende Auflage für Luftmatratze
 - [ ] Kamelhaardecke
+- [ ] Aufblasbett
+- [ ] Bettlaken
+- [ ] Bettdecken
 - [ ] Decke
 - [ ] Kissen
 - [ ] Lampe (mit Kurbel)
@@ -22,7 +33,9 @@
 - [ ] Lampe (mit Bewegungssensor)
 - [ ] Stühle (aufblasbar)
 - [ ] Stühle (zum falten)
-- [ ] Luftpumpen
+- [ ] Luftpumpen [3x]
+- [ ] Tisch
+- [ ] Mülleimer / Halter für Mülltüten
 
 ## Klamotten
 - [ ] Unterwäsche
@@ -32,6 +45,7 @@
 - [ ] Hosen (lang)
 - [ ] Hosen (kurz)
 - [ ] Mütze
+- [ ] Badeschlappen
 
 ## Elektrisch
 - [ ] Verlängerungskabel (Trommel)
@@ -39,11 +53,12 @@
 - [ ] CEE16->Schuko Adapter
 - [ ] Verlängerungskabel einzeln
 - [ ] Power bars
+- [ ] LED-Strahler (vom Balkon)
 
 ## Elektronisch
-- [ ] Laptop
-- [ ] Netzteil (Laptop)
-- [ ] DECT
+- [ ] Laptops
+- [ ] Netzteile (Laptops)
+- [ ] DECT [4x: hadez, trang, bronsen, lava]
 - [ ] Batterien
 - [ ] Akkus
 - [ ] Akkuladegerät
@@ -66,6 +81,15 @@
 - [ ] N2 für iSi
 - [ ] 12V/230V Kühltruhe
 - [ ] Kühlakkus
+- [ ] Plastikgeschirr
+- [ ] Besteck
+- [ ] scharfe Messer
+- [ ] Messerschärfer
+- [ ] Geschirrspülmittel
+- [ ] Putzschwämme
+- [ ] Geschirrtücher
+- [ ] Schneidbretter
+
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
@@ -80,7 +104,7 @@
 - [ ] Ventilatoren (230V)
 - [ ] Samoware
 - [ ] CNC
-- [ ] Tooling für CNC
+- [ ] Werkzeuge für CNC
 - [ ] Osziloskop und Messfühler
 - [ ] Lötstation + Zubhör + Lötzinn
 - [ ] Arduino sensor kits
@@ -99,18 +123,18 @@
 - [ ] Farblaserdrucker
 - [ ] Papier (A4)
 - [ ] Papiertacker und Munition
-- [ ] Akkuschrauber
+- [ ] Akkuschrauber, Akkus für Akkuschrauber, Ladegerät für 18V-Akkus
 - [ ] Bohrer, Bits, Bithalter, Nüsse für Akkuschrauber
-- [ ] Akkus für Akkuschrauber
-- [ ] Ladegerät für 18V-Akkus
-- [ ] Banner
-- [ ] Ständer für Banner
-- [ ] Füße für Ständer 
-- [ ] Paracord
+- [ ] Banner [2]
+- [ ] Ständer für Banner [8]
+- [ ] Füße für Ständer [8]
+- [ ] Paracord & Feuerzeuge
+- [ ] Beleuchtung für Arbeitstische
+- [ ] Opferholz ("Arbeitsplatte")
 
 ## Solar-Ausstattung
 - [ ] Pufferbatterie (120Ah/12V)
-- [ ] Solarzellen
+- [ ] Solarzellen [4]
 - [ ] MC4-Kabel (lang)
 - [ ] MC4-Y-Kabel 
 - [ ] Ladekontroller
