@@ -1,121 +1,122 @@
-## Hygiene & Safety
-- [ ] Sunscreen
-- [ ] Soap
-- [ ] Toothpaste
-- [ ] Toothbrush
-- [ ] Towels (multiple)
-- [ ] Toilet paper
+## Hygiene & Schutz
+- [ ] Sonnencreme
+- [ ] Seife
+- [ ] Zahnpasta
+- [ ] Zahnbürste
+- [ ] Handtücher (mehrere)
+- [ ] Toilettenpapier
 - [ ] Instant cool packs
-- [ ] Condoms
-- [ ] After-sun lotion
+- [ ] Kondome
+- [ ] After-sun Lotion
 
 ## Camping
-- [ ] Tent
-- [ ] Tarp
-- [ ] Air matress
-- [ ] Fitted sheet for air mattress
-- [ ] Camel hair blanket
-- [ ] Blanket
-- [ ] Pillow
-- [ ] Light (crank)
-- [ ] Light (battery)
-- [ ] Light (battery, motion detection
-- [ ] Chairs (blowup)
-- [ ] Chairs (folding)
-- [ ] Pump
+- [ ] Zelte (bronsen, hadez+trang)
+- [ ] Planen (min 3x)
+- [ ] Luftmatraze
+- [ ] passende Auflage für Luftmatratze
+- [ ] Kamelhaardecke
+- [ ] Decke
+- [ ] Kissen
+- [ ] Lampe (mit Kurbel)
+- [ ] Lampe (batterie/akku)
+- [ ] Lampe (mit Bewegungssensor)
+- [ ] Stühle (aufblasbar)
+- [ ] Stühle (zum falten)
+- [ ] Luftpumpen
 
-## Clothing
-- [ ] Underwear
+## Klamotten
+- [ ] Unterwäsche
 - [ ] T-Shirts
-- [ ] Raincoat
+- [ ] Regenmantel
 - [ ] Hoodies
-- [ ] Pants (long)
-- [ ] Pants (short)
-- [ ] Hat
+- [ ] Hosen (lang)
+- [ ] Hosen (kurz)
+- [ ] Mütze
 
-## Eletrical
-- [ ] Extension cord (roll/drum)
-- [ ] CEE32->CEE16 adapter
-- [ ] CEE16->Schuko adapter
-- [ ] Extension cords
+## Elektrisch
+- [ ] Verlängerungskabel (Trommel)
+- [ ] CEE32->CEE16 Adapter
+- [ ] CEE16->Schuko Adapter
+- [ ] Verlängerungskabel einzeln
 - [ ] Power bars
 
-## Electronics
+## Elektronisch
 - [ ] Laptop
-- [ ] Powercord (Laptop)
+- [ ] Netzteil (Laptop)
 - [ ] DECT
-- [ ] Batteries
-- [ ] Batteries (rechargeable)
-- [ ] Battery charger
-- [ ] Cellphone
-- [ ] USB Powersupply
-- [ ] USB Cable
+- [ ] Batterien
+- [ ] Akkus
+- [ ] Akkuladegerät
+- [ ] Telefon
+- [ ] USB Netzteil
+- [ ] USB Kabel
 
-## Kitchen Equipment
-- [ ] Gas stove (12kW)
-- [ ] Gas stove (2kw)
-- [ ] Hot plate
-- [ ] Cast iron pan
-- [ ] Pancake pan
-- [ ] Pot (23L)
-- [ ] Pot (10L)
+## Kücheneinrichtung
+- [ ] Gaskocher (12kW)
+- [ ] Gaskocher (2kw)
+- [ ] Edelstahlplatte
+- [ ] Gußeiserne Pfanne
+- [ ] Crepepfanne
+- [ ] Kochtopf (23L)
+- [ ] Kochtopf (10L)
 - [ ] Wok
-- [ ] Sous-vide cooker
+- [ ] Sous-vide-Gerät
 - [ ] iSi container
-- [ ] CO2 for iSi
-- [ ] N2 for iSi
-- [ ] 12V/230V cool box
-- [ ] Frozen cool packs
+- [ ] CO2 für iSi
+- [ ] N2 für iSi
+- [ ] 12V/230V Kühltruhe
+- [ ] Kühlakkus
 
-## Spices and shelf-stable food
-- [ ] Tea (Pepermint)
-- [ ] Tea (Lapsang)
-- [ ] Tea (assorted)
-- [ ] Sugar
+## Gewürze und haltbare Nahrung
+- [ ] Tee (Pfefferminze)
+- [ ] Tee (Lapsang)
+- [ ] Tee (diverse)
+- [ ] Zucker
+- [ ] Süßstoff in Tablettenform
 
-## Perishable food
+## Verderbliche Nahrung
 
-## Toys & Equipment
-- [ ] Fans (230V)
-- [ ] Samowar
+## Werkzeuge und Zubehör
+- [ ] Ventilatoren (230V)
+- [ ] Samoware
 - [ ] CNC
-- [ ] Tooling for CNC
-- [ ] Oscilloscope + Probes
-- [ ] Solidering iron + tooling + tin
+- [ ] Tooling für CNC
+- [ ] Osziloskop und Messfühler
+- [ ] Lötstation + Zubhör + Lötzinn
 - [ ] Arduino sensor kits
-- [ ] Addressable light strips
-- [ ] Power supply for addressable light strips
-- [ ] Battery for addressable light strips
+- [ ] adressierbare LED-Streifen
+- [ ] Stromversorgung für LED-Streifen
+- [ ] Batterien/Akkus für LED-Streifen
 - [ ] Raspberry Pis
-- [ ] Camera for RPi
+- [ ] Kamera für RPi
 - [ ] Arduinos
-- [ ] Breadboard + Jumpers
-- [ ] Assorted electronic components
-- [ ] Power supply (bench top)
+- [ ] Breadboard + Jumper
+- [ ] Bauteile und Komponenten
+- [ ] Labornetzteil
 - [ ] Kaltgerätekabel
 - [ ] Bollerwagen-Platte
 - [ ] Flexfoil
-- [ ] Color Laserprinter
-- [ ] Paper (A4)
-- [ ] Stapler + staples
-- [ ] Cordless Drill
-- [ ] Drills, bits, nuts for cordless drill
-- [ ] Batteries for cordless drill
-- [ ] Charger for Makita batteries
-- [ ] Banners
-- [ ] Stands for banner
-- [ ] Foot/weights for banner stands
+- [ ] Farblaserdrucker
+- [ ] Papier (A4)
+- [ ] Papiertacker und Munition
+- [ ] Akkuschrauber
+- [ ] Bohrer, Bits, Bithalter, Nüsse für Akkuschrauber
+- [ ] Akkus für Akkuschrauber
+- [ ] Ladegerät für 18V-Akkus
+- [ ] Banner
+- [ ] Ständer für Banner
+- [ ] Füße für Ständer 
 - [ ] Paracord
 
-## Solar Equipment
-- [ ] Battery (120Ah/12V)
-- [ ] Solar cells
-- [ ] MC4 cables (long)
-- [ ] MC4 Y-connector
-- [ ] MPPT controller
-- [ ] MC4-to-MPPT connector
-- [ ] Battery-to-MPPT connector
+## Solar-Ausstattung
+- [ ] Pufferbatterie (120Ah/12V)
+- [ ] Solarzellen
+- [ ] MC4-Kabel (lang)
+- [ ] MC4-Y-Kabel 
+- [ ] Ladekontroller
+- [ ] MC4-nach-MPPT Verbindungskabel
+- [ ] Batterie-nach-MPPT Verbindungskabel
 - [ ] 12V trickle carger
-- [ ] SG18 tent-top mounting for solar cells
+- [ ] SG18-Auflage zum montieren der Solarzellen
 - [ ] MPPT-to-12V breakout
-- [ ] 12V car connector to USB 5V
+- [ ] 12V-Zigarettenanzünder auf USB 5V Adapter
