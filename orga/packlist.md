@@ -16,11 +16,8 @@
 - [ ] Pflaster
 - [ ] Verbandskasten
 - [ ] Rasierzeug
-- [ ] Rasierspiegel
 - [ ] Duschgel
 - [ ] Ladestation für Zahnbürsten
-- [ ] Ibuprofen
-- [ ] Handfeger
 
 
 ## Camping
@@ -44,7 +41,6 @@
 - [ ] Tisch
 - [ ] Mülleimer / Halter für Mülltüten
 - [ ] Mylar-Folien
-- [ ] Flickzeug
 
 ## Klamotten
 - [ ] Unterwäsche
@@ -77,6 +73,9 @@
 - [ ] USB Netzteil
 - [ ] USB Kabel
 - [ ] Noise Cancelling Kopfhörer
+- [ ] Lautsprecher
+- [ ] NUC
+- [ ] NUC Monitor
 
 ## Kücheneinrichtung
 - [ ] Gaskocher (12kW)
@@ -107,6 +106,19 @@
 - [ ] Plastikschüsseln
 - [ ] Eimer
 - [ ] dichte Behälter (für Trockenes/Pulvriges)
+- [ ] Alufolie
+- [ ] Frischhaltefolie
+- [ ] Backpapier
+- [ ] Bambusdämpfaufsätze
+- [ ] Stäbchen
+- [ ] Geschirr
+- [ ] Utensielien
+- [ ] Schüssel gross
+- [ ] Waage
+- [ ] Messbecher
+- [ ] Schneebesen
+- [ ] Rührlöffel
+
 
 
 ## Gewürze und haltbare Nahrung
@@ -130,23 +142,25 @@
 - [ ] Salz
 - [ ] Schwarzer Knoblauch
 - [ ] Salz (schwarzer Knoblauch)
-- [ ] Sake, divers
-- [ ] Rum
-- [ ] Whisk[e]y
-- [ ] Laborgläser
+- [ ] Piment
+- [ ] Lorbeer
 
 ## Verderbliche Nahrung
 - [ ] Bacon
 - [ ] Hackfleisch
 - [ ] Oktopus
 - [ ] Tomaten
-- [ ] Lava
-- [ ] Marmeladen & Konfitüren
 
 ## Werkzeuge und Zubehör
-- [ ] Ventilatoren (230V)
+- [ ] Ventilatoren (230V) [2]
 - [ ] Samoware
 - [ ] CNC
+- [ ] CNC Schneidmatte
+- [ ] CNC Spindel + Controller
+- [ ] CNC Stifthalter [2]
+- [ ] CNC Folienschneider
+- [ ] CNC Laptop
+- [ ] CNC Gamepad
 - [ ] Werkzeuge für CNC
 - [ ] Osziloskop und Messfühler
 - [ ] Lötstation + Zubhör + Lötzinn
@@ -178,15 +192,7 @@
 - [ ] blaues Maskierband
 - [ ] Cutter, Ersatzklingen
 - [ ] Werkzeuge zum Crimpen und Kabelkonfektion
-- [ ] Isopropanol
-- [ ] Bremsenreiniger
-- [ ] WD-40
-- [ ] Putzlappen
-- [ ] Juwelier-Monokel
-- [ ] Papier und Stifte
-- [ ] Infuanfu-Stempel (für die Hackerreisepässe)
-- [ ] Heißkleber
-- [ ] Pump-Druckbehälter (zum ausblasen der CNC)
+- [ ] Messingblechstreifen
 
 
 ## Solar-Ausstattung
