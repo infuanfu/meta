@@ -112,8 +112,26 @@
 - [ ] Zucker
 - [ ] Süßstoff in Tablettenform
 - [ ] Honig für Tee
+- [ ] Toast
+- [ ] Eier
+- [ ] Zwiebeln
+- [ ] Reis
+- [ ] Maismehl
+- [ ] Weizenmehl
+- [ ] Trockenhefe
+- [ ] Hartweizengrieß
+- [ ] Sauergurken
+- [ ] Sekt
+- [ ] Bier
+- [ ] Salz
+- [ ] Schwarzer Knoblauch
+- [ ] Salz (schwarzer Knoblauch)
 
 ## Verderbliche Nahrung
+- [ ] Bacon
+- [ ] Hackfleisch
+- [ ] Oktopus
+- [ ] Tomaten
 
 ## Werkzeuge und Zubehör
 - [ ] Ventilatoren (230V)
