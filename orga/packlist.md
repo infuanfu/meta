@@ -18,12 +18,16 @@
 - [ ] Rasierzeug
 - [ ] Duschgel
 - [ ] Ladestation für Zahnbürsten
+- [ ] Ibuprofen
+- [ ] Handfeger
+- [ ] Kontaktlinsenfoo
+- [ ] Bite-aways
 
 
 ## Camping
 - [ ] Zelte (bronsen, hadez+trang)
 - [ ] Häringe
-- [ ] Planen (min 3x)
+- [ ] Planen (min 3x, noch genaue Anzahl eintragen)
 - [ ] Luftmatraze
 - [ ] passende Auflage für Luftmatratze
 - [ ] Kamelhaardecke
@@ -52,6 +56,8 @@
 - [ ] Mütze
 - [ ] Badeschlappen
 - [ ] Socken
+- [ ] Sandalen
+- [ ] feste Schuhe
 
 
 ## Elektrisch
@@ -59,7 +65,7 @@
 - [ ] CEE32->CEE16 Adapter
 - [ ] CEE16->Schuko Adapter
 - [ ] Verlängerungskabel; einzeln, blau
-- [ ] Power bars
+- [ ] Steckdosenleisten
 - [ ] LED-Strahler (vom Balkon)
 
 ## Elektronisch
@@ -76,6 +82,7 @@
 - [ ] Lautsprecher
 - [ ] NUC
 - [ ] NUC Monitor
+- [ ] Powerbanks
 
 ## Kücheneinrichtung
 - [ ] Gaskocher (12kW)
@@ -230,6 +237,18 @@
 - [ ] Cutter, Ersatzklingen
 - [ ] Werkzeuge zum Crimpen und Kabelkonfektion
 - [ ] Messingblechstreifen
+- [ ] Isopropanol
+- [ ] Bremsenreiniger
+- [ ] WD-40
+- [ ] Putzlappen
+- [ ] Juwelier-Monokel
+- [ ] Papier und Stifte
+- [ ] Infuanfu-Stempel (für die Hackerreisepässe)
+- [ ] Heißkleber
+- [ ] Pump-Druckbehälter (zum ausblasen der CNC)
+- [ ] Kabelbinder
+- [ ] Seitenschneider
+- [ ] brymen Messgerät
 
 
 ## Solar-Ausstattung
