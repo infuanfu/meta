@@ -126,6 +126,8 @@
 - [ ] BBQ Thermometer
 - [ ] Gitterrost
 - [ ] Drahtlöffel
+- [ ] Vacuumiergerät
+- [ ] Vacuumbeutel
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
