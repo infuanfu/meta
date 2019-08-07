@@ -135,6 +135,7 @@
 - [ ] Drahtlöffel
 - [ ] Vacuumiergerät
 - [ ] Vacuumbeutel
+- [ ] Kreisausstecher
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
@@ -188,6 +189,8 @@
 - [ ] Rapsöl
 - [ ] Olivenöl
 - [ ] Austernsoße
+- [ ] Melasse
+- [ ] Dryrub
 
 ## Verderbliche Nahrung
 - [ ] Bacon
