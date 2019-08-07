@@ -22,6 +22,8 @@
 - [ ] Handfeger
 - [ ] Kontaktlinsenfoo
 - [ ] Bite-aways
+- [ ] Feuerlöscher
+- [ ] Feuerschutzdecken
 
 
 ## Camping
@@ -136,6 +138,8 @@
 - [ ] Vacuumiergerät
 - [ ] Vacuumbeutel
 - [ ] Kreisausstecher
+- [ ] Teefilter aus Papier, -halter
+- [ ] Teekanne
 
 ## Gewürze und haltbare Nahrung
 - [ ] Tee (Pfefferminze)
@@ -186,17 +190,20 @@
 - [ ] Honig
 - [ ] Mayo (JP)
 - [ ] Ketchup (Werder)
-- [ ] Rapsöl
+- [ ] Rapsöl, viel: u.A. zum Frittieren
 - [ ] Olivenöl
 - [ ] Austernsoße
 - [ ] Melasse
 - [ ] Dryrub
+- [ ] Crema di Balsamico
 
 ## Verderbliche Nahrung
 - [ ] Bacon
 - [ ] Hackfleisch
 - [ ] Oktopus
 - [ ] Tomaten
+- [ ] Obst, Äpfel
+- [ ] Frühlingszwiebel
 
 ## Werkzeuge und Zubehör
 - [ ] Ventilatoren (230V) [2]
@@ -227,6 +234,7 @@
 - [ ] Farblaserdrucker
 - [ ] Papier (A4)
 - [ ] Papiertacker und Munition
+- [ ] Klarsichthüllen
 - [ ] Akkuschrauber, Akkus für Akkuschrauber, Ladegerät für 18V-Akkus
 - [ ] Bohrer, Bits, Bithalter, Nüsse für Akkuschrauber
 - [ ] Banner [2]
