@@ -24,6 +24,7 @@
 - [ ] Bite-aways
 - [ ] Feuerlöscher
 - [ ] Feuerschutzdecken
+- [ ] Desinfektionsmittel
 
 
 ## Camping
