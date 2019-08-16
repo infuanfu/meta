@@ -1,3 +1,7 @@
+- [ ] Mietwagen
+- [ ] Eintrittskarten
+
+
 ## Hygiene & Schutz
 - [ ] Sonnencreme
 - [ ] Seife
@@ -64,11 +68,14 @@
 
 
 ## Elektrisch
-- [ ] Verlängerungskabel (Trommel)
+- [ ] Verlängerungskabel 50m (Trommel)
+- [ ] Verlängerungskabel; einzeln, blau
+- [ ] Verlägerungskabel rot
+- [ ] Wasserfeste Steckerschützer (2x)
 - [ ] CEE32->CEE16 Adapter
 - [ ] CEE16->Schuko Adapter
-- [ ] Verlängerungskabel; einzeln, blau
-- [ ] Steckdosenleisten
+- [ ] Steckdosenleisten (Innenbereich)
+- [ ] Steckdosenleisten (Aussenbereich)
 - [ ] LED-Strahler (vom Balkon)
 
 ## Elektronisch
@@ -99,7 +106,7 @@
 - [ ] Kochtopf (10L)
 - [ ] Deckel für Kochtopf
 - [ ] Wok
-- [ ] Sous-vide-Gerät
+- [ ] Sous-vide-Gerät (2x)
 - [ ] iSi container
 - [ ] CO2 für iSi
 - [ ] N2 für iSi
@@ -209,14 +216,6 @@
 ## Werkzeuge und Zubehör
 - [ ] Ventilatoren (230V) [2]
 - [ ] Samoware
-- [ ] CNC
-- [ ] CNC Schneidmatte
-- [ ] CNC Spindel + Controller
-- [ ] CNC Stifthalter [2]
-- [ ] CNC Folienschneider
-- [ ] CNC Laptop
-- [ ] CNC Gamepad
-- [ ] Werkzeuge für CNC
 - [ ] Osziloskop und Messfühler
 - [ ] Lötstation + Zubhör + Lötzinn
 - [ ] Arduino sensor kits
@@ -231,24 +230,18 @@
 - [ ] Labornetzteil
 - [ ] Kaltgerätekabel
 - [ ] Bollerwagen-Platte
-- [ ] Flexfoil
 - [ ] Farblaserdrucker
 - [ ] Papier (A4)
 - [ ] Papiertacker und Munition
 - [ ] Klarsichthüllen
 - [ ] Akkuschrauber, Akkus für Akkuschrauber, Ladegerät für 18V-Akkus
 - [ ] Bohrer, Bits, Bithalter, Nüsse für Akkuschrauber
-- [ ] Banner [2]
-- [ ] Ständer für Banner [8]
-- [ ] Füße für Ständer [8]
-- [ ] Paracord & Feuerzeuge
 - [ ] Beleuchtung für Arbeitstische
 - [ ] Opferholz ("Arbeitsplatte")
 - [ ] Gerband 2x
 - [ ] blaues Maskierband
 - [ ] Cutter, Ersatzklingen
 - [ ] Werkzeuge zum Crimpen und Kabelkonfektion
-- [ ] Messingblechstreifen
 - [ ] Isopropanol
 - [ ] Bremsenreiniger
 - [ ] WD-40
@@ -262,6 +255,56 @@
 - [ ] Seitenschneider
 - [ ] brymen Messgerät
 
+### Banner
+- [ ] Banner [2]
+- [ ] Ständer für Banner [8]
+- [ ] Füße für Ständer [8]
+- [ ] Paracord & Feuerzeuge
+
+### CNC
+- [ ] Stepcraft
+- [ ] Stepcraft Netzteil + Kabel
+- [ ] Schneidmatte
+- [ ] HF Spindel
+- [ ] HF Spindel Controller
+- [ ] HF Spinden <> CNC Kabel
+- [ ] ER11 Collets
+- [ ] Gabelschlüssel für ER11
+- [ ] Stifthalter [2]
+- [ ] Stifte
+- [ ] Dragknife Holder
+- [ ] Dragknife Klingen
+- [ ] UCCNC Laptop
+- [ ] LinuxCNC Adapter
+- [ ] Mini-USB Kabel
+- [ ] Gamepad
+- [ ] Fräser
+- [ ] Klemmgeschirr
+- [ ] Minischraubstock
+- [ ] Imbus für Minischraubstaub
+- [ ] Papier
+- [ ] Schleifklotz + Schleifpapier
+- [ ] Schmierfett
+- [ ] div. Schraubwerkzeuge für Wartung
+- [ ] Holz
+- [ ] Acryl
+- [ ] Flexfoil
+- [ ] Messingblechstreifen
+
+### Lederwerkzeug
+- [ ] Leder 5mm
+- [ ] Nappaleder
+- [ ] Kupfermesh
+- [ ] Kontaktkleber
+- [ ] Werkzeuge und Messer
+- [ ] Nieten
+- [ ] Hammer
+- [ ] Nietenamboss
+- [ ] Stanzwerkzeuge
+- [ ] Schlagbrett (Kunststoff)
+- [ ] Lederfarben
+- [ ] Edge Paint
+- [ ] Küchenpapier
 
 ## Solar-Ausstattung
 - [ ] Pufferbatterie (120Ah/12V)
@@ -275,3 +318,28 @@
 - [ ] SG18-Auflage zum montieren der Solarzellen
 - [ ] MPPT-to-12V breakout
 - [ ] 12V-Zigarettenanzünder auf USB 5V Adapter
+
+## Photo
+- [ ] D810
+- [ ] Battarie (3x)
+- [ ] Ladegerät + Kabel
+- [ ] Blasebalg
+- [ ] Putztuch
+- [ ] Pinsel
+- [ ] Sensorreiniger
+- [ ] Reiniger (flüssig)
+- [ ] Intervallauslöser
+- [ ] 18-200 VR2
+- [ ] 24/2.8
+- [ ] 60/2.8
+- [ ] 10/2.8
+- [ ] Ica Minimum Palmos
+- [ ] Focusscheibe
+- [ ] Filmkasette (6x)
+- [ ] Fomapan Film (2x)
+- [ ] Orwo Film (1x)
+- [ ] Stativ mit Kugelkopf (Sherpa Pro)
+- [ ] PD Gürtelhalter
+- [ ] PD Sling
+- [ ] Polfilter (3x)
+- [ ] Light Pollution Filter
