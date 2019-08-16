@@ -30,6 +30,7 @@
 - [ ] Feuerlöscher
 - [ ] Feuerschutzdecken
 - [ ] Desinfektionsmittel
+- [ ] Bronchicum Tropfen
 
 
 ## Camping
@@ -217,7 +218,7 @@
 
 ## Werkzeuge und Zubehör
 - [ ] Ventilatoren (230V) [2]
-- [ ] Samoware
+- [ ] Samoware [3]
 - [ ] Osziloskop und Messfühler
 - [ ] Lötstation + Zubhör + Lötzinn
 - [ ] Arduino sensor kits
