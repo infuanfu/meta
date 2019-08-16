@@ -62,7 +62,7 @@
 - [ ] Hoodies
 - [ ] Hosen (lang)
 - [ ] Hosen (kurz)
-- [ ] Mütze
+- [ ] Mütze, für kalte Nächte
 - [ ] Badeschlappen
 - [ ] Socken
 - [ ] Sandalen
@@ -118,6 +118,7 @@
 - [ ] Besteck
 - [ ] scharfe Messer
 - [ ] Messerschärfer
+- [ ] Radiergummi zum Reinigen der Schleifsteine
 - [ ] Geschirrspülmittel
 - [ ] Putzschwämme
 - [ ] Geschirrtücher
