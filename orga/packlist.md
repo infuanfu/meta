@@ -9,6 +9,7 @@
 - [ ] Zahnbürste
 - [ ] Handtücher (mehrere)
 - [ ] Badetücher
+- [ ] Feuchttücher
 - [ ] Toilettenpapier
 - [ ] Instant cool packs
 - [ ] Kondome
