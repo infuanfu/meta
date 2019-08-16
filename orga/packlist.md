@@ -52,6 +52,8 @@
 - [ ] Stühle (zum falten)
 - [ ] Luftpumpen [3x]
 - [ ] Tisch
+- [ ] Mülltüten
+- [ ] Müllsäcke
 - [ ] Mülleimer / Halter für Mülltüten
 - [ ] Mylar-Folien
 
