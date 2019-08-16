@@ -207,6 +207,7 @@
 - [ ] Crema di Balsamico
 
 ## Verderbliche Nahrung
+- [ ] Kimchi
 - [ ] Bacon
 - [ ] Hackfleisch
 - [ ] Oktopus
